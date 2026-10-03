@@ -234,3 +234,10 @@ AGENTS.md
 
 # Private business planning (local only)
 project-infra/
+
+# Local assistant and editor state
+.codex/
+.cursor/
+codex/
+cursor/
+claude/
